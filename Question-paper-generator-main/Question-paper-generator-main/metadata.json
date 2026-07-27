@@ -1,0 +1,6 @@
+{
+  "name": "Bloomia AI",
+  "description": "Automated Question Paper Generator - Premium SaaS Platform for standard, high-quality, Bloom's Taxonomy aligned question papers with customizable formats, subject modules, difficulty distributions, export options, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
